@@ -1,0 +1,15 @@
+th{
+    background: #0c5460;
+    color: #ffffff;
+}
+
+th, td{
+    border: 1px solid #000;
+}
+.tdwidth{
+    min-width: 200px;
+}
+span {
+    min-width: 120px;
+    display: inline-block;
+}
